@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FlashSale.API/FlashSale.API.csproj" />
+  <Project Path="FlashSale.Application/FlashSale.Application.csproj" />
+  <Project Path="FlashSale.Domain/FlashSale.Domain.csproj" />
+  <Project Path="FlashSale.Infrastructure/FlashSale.Infrastructure.csproj" />
+</Solution>
