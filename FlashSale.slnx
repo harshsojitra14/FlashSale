@@ -1,6 +1,20 @@
 <Solution>
+  <Folder Name="/Documents/">
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/API.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/ARCHITECTURE.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/CHANGELOG.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/DATABASE.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/DECISIONS.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/DOMAIN.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/PROJECT.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/README.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/REQUIREMENTS.md" />
+    <File Path="C:/Users/abc/Downloads/flash-sale-project-docs/docs/TODO.md" />
+  </Folder>
   <Project Path="FlashSale.API/FlashSale.API.csproj" />
   <Project Path="FlashSale.Application/FlashSale.Application.csproj" />
   <Project Path="FlashSale.Domain/FlashSale.Domain.csproj" />
   <Project Path="FlashSale.Infrastructure/FlashSale.Infrastructure.csproj" />
+  <Project Path="FlashSale.IntegrationTests/FlashSale.IntegrationTests.csproj" Id="3d190d95-1b9f-4abe-8e1b-5d8f89e06923" />
+  <Project Path="FlashSale.UnitTests/FlashSale.UnitTests.csproj" Id="6db0c70a-5615-4875-8edd-a3dca678fa97" />
 </Solution>
